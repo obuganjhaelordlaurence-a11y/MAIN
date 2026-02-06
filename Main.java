@@ -17,4 +17,4 @@
         // ✅ ONLY PRINT STATEMENT IN THE ENTIRE PROGRAM
         System.out.println(output);
     }
-}
+
